@@ -17,3 +17,9 @@ Time_sorted_by_clutser.ipynb-  Separated the data frame into different time fram
 Top_k.ipynb- Created a function to output k number of similar bugs rather than bugs above a certain similarity threshold
 
 Topic_modeling.ipynb- Splits bug reports into topics using LDA topic modeling and compares bugs in the same topic using cosine similarity 
+
+ModelBAYES.ipynb- BAYES code and results
+
+modelBERT.ipynb- BERT code and results
+
+modelMLP.ipynb- MLP code and results
